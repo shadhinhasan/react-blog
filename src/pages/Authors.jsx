@@ -8,11 +8,11 @@ import Avatar4 from '../images/avatar4.jpg'
 import Avatar5 from '../images/avatar5.jpg'
 
 const authorsData = [
-  {id:1, avatar:Avatar1, name: 'Ernest Achiever', posts:3},
-  {id:2, avatar:Avatar2, name: 'Jane Doe', posts:5},
-  {id:3, avatar:Avatar3, name: 'Dramani Mahama', posts:0},
-  {id:4, avatar:Avatar4, name: 'Nana Addo', posts:2},
-  {id:5, avatar:Avatar5, name: 'Hajia Bintu', posts:1},
+  {id:1, avatar:Avatar1, name: 'Ernest Achiever', posts:"3 posts"},
+  {id:2, avatar:Avatar2, name: 'Jane Doe', posts:"5 posts"},
+  {id:3, avatar:Avatar3, name: 'Dramani Mahama', posts:"0 posts"},
+  {id:4, avatar:Avatar4, name: 'Nana Addo', posts:"2 posts"},
+  {id:5, avatar:Avatar5, name: 'Hajia Bintu', posts:"1 posts"},
 ]
 
 const Authors = () => {
